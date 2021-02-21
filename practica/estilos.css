@@ -11,7 +11,7 @@ header {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background-color: rgba(0, 60, 255, 0.603);
+  background-color: rgba(255, 0, 234, 0.603);
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
