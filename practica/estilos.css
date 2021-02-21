@@ -11,7 +11,7 @@ header {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background-color: aqua;
+  background-color: rgba(0, 60, 255, 0.603);
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
@@ -39,7 +39,6 @@ main nav ul {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background-color: bisque;
   width: 10%;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
