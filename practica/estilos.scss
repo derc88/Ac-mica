@@ -1,0 +1,61 @@
+html{
+    font-size: 16px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4rem;
+}
+
+header{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+main{
+    display: flex;
+    background-color: cadetblue;
+    aside{
+        display: flex;
+        background-color:cornsilk;
+        width: 20%;
+
+    
+    }
+    nav ul{
+        display: flex;
+        //background-color: bisque;
+        width: 10%;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        list-style: none ;
+
+        li{
+            padding: 8px;
+        }
+    
+    }
+
+    article{
+        display: flex;
+        background-color: rgba(58, 149, 66, 0.787);
+        width: 70%;
+
+    }
+
+}
+
+footer{
+    display:flex;
+    background-color: darkcyan;
+}
+
+
+
+
+
+

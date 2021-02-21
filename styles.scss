@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .navegacion ul{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        list-style: none ;
+
+        li{
+            padding: 8px;
+        }
+    }
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+
+    aside{
+        width: 20%;
+    }
+
+    section{
+        width: 80%;
+
+        article{
+            display: flex;
+            margin-bottom: 3px;
+            //justify-content: space-between;
+            align-items: center;
+            //flex-wrap: wrap;
+        }
+
+        img{
+            margin-right: 15px;
+
+        }
+    }
+}
+
+
