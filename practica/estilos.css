@@ -63,6 +63,11 @@ main article {
   width: 70%;
 }
 
+main article p {
+  text-align: justify;
+  padding: 10px;
+}
+
 footer {
   display: -webkit-box;
   display: -ms-flexbox;
